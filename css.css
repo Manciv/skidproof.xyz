@@ -1,1 +1,8 @@
-css
+body
+{
+	font: normal 8pt/normal Verdana;
+  text-align: center;
+	margin-top: 0;
+	text-transform: none;
+	text-decoration: none;
+}

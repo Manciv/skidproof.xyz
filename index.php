@@ -10,5 +10,11 @@
   <body>
     <h1>Skidproof</h1>
     <h2>Stop Script-Kitties from stealing your code</h2>
+    <h3>Based off html and javascript</h3>
+    <hr>
+    <br><br><br><br><br>
+    <a herf="#">
+    <button>View GitHub</buttom>
+    </a>
   </body>
 </html>
